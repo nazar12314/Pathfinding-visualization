@@ -3,9 +3,9 @@
 Usage:
 
 1. Set starting and ending points (using left mousebutton)
-2. Draw barriers (press "c" button to be able to cancel changes using right mousebutton)
-3. Press "Space" button to launch the algorithm
-4. Press "r" button to restart visualization
+2. Draw barriers (press "c" to be able to cancel changes using right mousebutton)
+3. Press "Space" to launch the algorithm
+4. Press "r" to restart visualization
 
 # Showcase
 
